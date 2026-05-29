@@ -1,0 +1,18 @@
+background_color: black
+bar_color: gray8
+text_color: gray40
+folder_mode: false
+folder: ""
+# format as follows:
+# files:
+#   - name: "File1"
+#     path: "C:\Other\file1.exe"
+#   - name: "File2"
+#     path: "C:\Other\file2.exe"
+files:
+  - name: "RetroArch"
+    path: "C:\\RetroArch-Win64\\retroarch.exe"
+  - name: "Example 2"
+    path: ""
+  - name: "Example 3"
+    path: ""
