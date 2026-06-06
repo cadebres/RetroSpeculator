@@ -1,6 +1,11 @@
+# Color of the background of the app
 background_color: black
+# Color of the title and version bars as well as the color of the buttons
 bar_color: gray8
+# Color of all text in the app
 text_color: gray40
+# Currently not implemented, but if true, the app will look for files in the specified folder
+# instead of using the list of files in the settings.yaml
 folder_mode: false
 folder: ""
 # format as follows:
